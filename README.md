@@ -15,6 +15,8 @@ Escreva um programa em Java em que o usuário informe o seu nome e em seguida o 
 4 - A Bit of Geometry
 Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
 
+![Untitled](https://github.com/matheus-mbm/Logica_de_Programacao-Java/assets/84343690/522a495c-8ce9-4376-b865-4c392bd262cd)
+
 5 - 1, 2 e 3
 Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou neutro.
 
